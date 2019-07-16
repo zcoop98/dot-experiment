@@ -1,10 +1,11 @@
 # This is a README!
 This is where I'll keep track of all steps taken to make my project, including useful links and tidbits of info that I've found handy 
 ## Steps
-1. Create repo 
-2. Download .NET Core **SDK**: https://dotnet.microsoft.com/download
-3. Open command prompt and navigate to local repo directory
-4. Execute `dotnet new console`
+1. Create repo in github, make sure "Initialize this repository with a README" checkbox is checked!
+2. Clone repo to local using *Clone or download* button on github
+3. Download .NET Core **SDK**: https://dotnet.microsoft.com/download
+4. Open command prompt and navigate to local repo directory
+6. Execute `dotnet new console`
   * Details: https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-new?tabs=netcore22
   * Useful options for command: https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-new?tabs=netcore22#options
     * `-h | --help`: Displays help for invoked command
@@ -16,8 +17,8 @@ This is where I'll keep track of all steps taken to make my project, including u
     * `--nuget-source`: Specifies a NuGet source to use during install
     * `-o|--output <OUTPUT_DIRECTORY>`: Location to place the generated output, default is current directory
     * *NOTE:* Depending on the args, this command can be used to display possibilities rather than generate a new project immediately
-5. Execute `dotnet build`
-6. Execute `dotnet run`
+6. Execute `dotnet build`
+7. Execute `dotnet run`
 
 This should print `Hello World!` in the command prompt.
 
