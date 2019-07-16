@@ -1,9 +1,6 @@
 # This is a README!
-## This is where I'll keep track of all steps taken to make my project, including useful links and tidbits of info that I've found handy 
----
+This is where I'll keep track of all steps taken to make my project, including useful links and tidbits of info that I've found handy 
 ## Steps
-
-
 1. Create repo 
 2. Download .NET Core **SDK**: https://dotnet.microsoft.com/download
 3. Open command prompt and navigate to local repo directory
@@ -23,3 +20,10 @@
 6. Execute `dotnet run`
 
 This should print `Hello World!` in the command prompt.
+
+---
+General Useful Links:
+* `.gitignore` template for various project types https://github.com/github/gitignore
+ * VS project `.gitignore` template https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
+* *What not to save into a Git repo* https://zellwk.com/blog/what-not-to-save-into-a-git-repo/
+* git documentation https://git-scm.com/doc
