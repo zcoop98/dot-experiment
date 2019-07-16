@@ -28,3 +28,4 @@ General Useful Links:
 * *What not to save into a Git repo* https://zellwk.com/blog/what-not-to-save-into-a-git-repo/
 * git documentation https://git-scm.com/doc
 * Creating and managing ssh keys https://clubmate.fi/how-to-setup-and-manage-multiple-ssh-keys/
+* `ssh-keygen` documentation https://www.ssh.com/ssh/keygen/#sec-What-Is-ssh-keygen
